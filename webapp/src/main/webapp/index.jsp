@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Sample Website</h1>
-  <p>All teams must report during the main turnover and DDOS bridge!</p>
+  <p>All teams must report during the main turnover with Mike's lead and DDOS bridge. I like  drinking Guinness.lol!</p>
 </div>
 </body>
 </html>
